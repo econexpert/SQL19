@@ -9,7 +9,7 @@ END
 
 -- Testatable to change column titles
 DECLARE @bigtablename VARCHAR(70);
-SET @bigtablename = 'Testatable';
+SET @bigtablename = 'TestMe';
 
 -- declare temporary table as a variable
 DECLARE @temp_table TABLE (
